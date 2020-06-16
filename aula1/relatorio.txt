@@ -1,0 +1,132 @@
+2019-01-07	Problema na transmiss�o dos canais televisivos (formigueiro). Visita agendada para amanh� da parte da manh� (10/01).	(10-01-2019) Transformador do XON substituido. 
+2019-01-08	Ativa��o de servi�o.Visita agendada para amanh� da parte da manh� (10/01) �s 10h.	(10-01-2019) Ativa��o efetuada com sucesso. 
+2019-01-08	Problema na transmiss�o dos canais televisivos. Visita agendada para amanh� da parte da manh� (10/01).	(10-01-2019) Problema com a televis�o, sintoniza��o dos canais. 
+2019-01-08	Problema na difus�o dos canais televisivos.Nota: Tocar na casa 12. Visita agendada para amanh� da parte da tarde (10/01) a partir das 15h.	(10-01-2019) Transformador do XON substituido. 
+2019-01-08	Problema na difus�o dos canais televisivos.Visita agendada para amanh� da parte da manh� (10/01) a partir das 16h30.	(10-01-19 | 11-01-19) A equipa t�cnica da Porto Digital efetuou a substitui��o do transformador junto ao XON e retificou alguns pontos na coluna montante do edif�cio.
+2019-01-09	Problema na difus�o do canal da TVI. Visita agendada para amanh� (10/01) ao in�cio da tarde (14h). 	(10-01-2019) Problema resolvido com nova sintoniza��o. 
+2019-01-09	Pretende ativa��o de servi�o. Visita agendada para 4�feira dia 16/01 da parte da tarde. Passar tamb�m na casa 50 para fazer ativa��o.(16-01-19) A equipa t�cnica da Porto Digital efetuou a ativa��o de servi�o com sucesso.
+2019-01-10	Ficou sem sinal ontem. Visita agendada excecionalmente para amanh� �s 15h30 (11/01).(16/01) Substituir XON pelo de monitoriza��o instalado no bloco 3 entrada 103.	(16-01-19) A equipa t�cnica da Porto Digital deslocou-se ao local e efetuou a substitui��o do equipamento tempor�rio por um de monitoriza��o (ver observa��o).(11-01-19) A equipa t�cnica da Porto Digital deslocou-se ao local e efetuou a substitui��o do XON de monitoriza��o por um normal. O mesmo ter� de ser substitu�do. 
+2019-01-16	A inquilina informa que a difus�o dos canais televisivos n�o � n�tida. (Transformador?) Visita agendada para hoje durante o dia (16/01).	(16-01-19) Reiniciou-se o equipamento.
+2019-01-17	Inquilina ficou sem servi�o logo ap�s problema el�trico nos comuns. O transformador poder� ter queimado. Visita agendada para hoje da parte da tarde execionalmente (17/01).	(17-01-19) A equipa t�cnica da Porto Digital desocou-se ao local e efetuou a substitui��o do transformador.
+2019-01-18	A inquilina informa que a difus�o dos canais televisivos n�o � n�tida. (Prever transformador novo). Visita agendada para 4�feira (23/01) da parte da manh�.	(23-01-19) A equipa t�cnica da Porto Digital deslocou-se ao local e substituiu o transformador que alimenta o Xon.
+2019-01-18	Novamente com interfer�ncia. Visita agendada para 4�feira da parte da manh� (23/11).	(23-01-19) Ligou a informar que o problema j� se encontra resolvido.
+2019-01-22	Pretende ativa��o de servi�o. Visita agendada para amanh� da parte da manh� (23/01). Nota: terceira ativa��o!	(23-01-19) A equipa t�cnica da Porto Digital efetuou a ativa��o de servi�o com sucesso.
+2019-01-29	Informa estar com problemas no sinal de TV.	(31-01-19) Inquilino informa que o servi�o encontra-se novamente ativo.
+2019-01-31	Pretende ativa��o de servi�o. Visita agendada para esta tarde (31/01).	(31-01-19) A equipa t�cnica da Porto Digital efetuou a ativa��o de servi�o com sucesso.
+2019-01-31	Pretende ativa��o de servi�o. Visita agendada para quinta-feira dia 24/01 da parte da tarde.	(24-01-19) A equipa t�cnica da Porto Digital efetuou a ativa��o de servi�o com sucesso.
+2019-01-31	Problema com o sinal televisivo. Visita agendada para 4�feira (06/02) �s 11h.	(06-02-19) A equipa t�cnica da Porto Digital deslocou-se ao local e efetuou a substitui��o do transformador que alimenta o XON e o distribuidor de piso RC Esq.
+2019-02-04	Rerscindiu com a N�S. Visita agendada para 4�feira da parte da manh� (06/02). (08/02/19) Ligou a pedir nova visita. Agendado para quarta-feira dia 13/02 da parte da manh�.(13-02-19) Ativa��o efetuada com sucesso. Nota: TV do inquilino sem comando. Ficou de comprar um e efetuar sintoniza��o.(06-02-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou que o inquilino n�o se encontrava no local como combinado (hora de passagem: 9h45 | 10h30 | 16h50).
+2019-02-19	(13-02-19) Ativa��o efetuada com sucesso.
+2019-02-19	(13-02-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou que o televisor da inquilina encontrava-se dessintonizado.
+2019-02-20	Pretende ativa��o de servi�o. Nova inquilina. Visita agendada para amanh� �s 10h (21/02). (21-02-2019) ativa��o efetuada com sucesso. Distribuidor interior substituido. 
+2019-02-21	Agendado para o dia 21/02 por parta da tarde. Nova visita para amanh� da parte da tarde (28/02).	(28-02-19) A equipa tecnica da Porto Digital verificou que o problema provinha do interior da habita��o. Mau contacto ao n�vel da rece��o do sinal junto da tv (banana? conector tv?). (21-02-18) Substitui��o do transformador n�o surtiu efeito na solu��o do problema.
+2019-02-21	Agendado para dia 21/02 na parte da tarde.	(21-02-19) A televis�o da inquilina foi colocada em modo digital.
+2019-02-25	(28-02-19) Marcar nova visita para solucionar o problerma. Interfer�ncias na difus�o dos canais televisivos. (Transformador ou cabo de operador a interferir no nosso distribuidor (ver hist�rico). Visita agendada para amanh� da parte da manh�. (ver hist�rico) (28-02-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou que a tomada el�trica ter� de ser subsitu�da por uma nova para al�m de ser necess�rio um novo transformador.
+2019-02-25	Ativa��o de servi�o (?) Visita agendada para amanh� da parte da manh� (28/02).	(28-02-19) Ativa��o de servi�o com sucesso.
+2019-02-27	Moradora no bairro do Contumil. Pretendia servi�o da APD. Nota: Explicar funcionamento da TDT e que tente solu��o junto � Domus Social.	(01-03-19) A inquilina foi devidamente informada acerca do assunto em ep�grafe.
+2019-03-04	Pretende ativa��o de servi�o. Visita marcada para esta tarde (06/03) �s 15h.	(06-03-18) Ativa��o efetuada com sucesso. Nota: Rever coluna montante numa pr�xima interven��o e/ou transformador Xon.
+2019-03-07	Pretendia ativa��o de servi�o.	
+2019-03-19	Problemas com sinal televisivo. Visita agendada para amanh� da parte da manh� (20/03).	(20-03-19) Cabo de antena desligado, transformador substituido no XON.
+2019-03-19	Pretende ativa��o de servi�o. Atendeu por telefone a neta mas quem estar� presente ser� o primo. Visita agendada para amanh� da parte da manh� (20/03). Nota: Ativado em 30/01/13	(20-03-19) Ativa��o com sucesso. Distribui��o interior corrigida. 
+2019-03-26	Interfer�ncias na difus�o dos canais televisivos. Visita agendada para amanh� da parte da manh� (27/03). Ver hist�rico. (27-03-19) A equipa t�cnica da Porto Digital deslocou-se ao local e efetuou a substitui��o da tomada el�trica. Teremos de prever numa pr�xima passagem um transformador novo e um distribuidor.
+2019-03-26	Interfer�ncias na difus�o dos canais televisivos. Visita agendada para amanh� da parte da manh� (27/03). (27-03-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou que a inquilina tinha rescindido contrato com a N�S (corte). Foi necess�rio ativar o servi�o.
+2019-04-03	Solicita a instala��o dos servi�os de televis�o. Visita agendada para amanh� da parte da tarde (04/04).	(04-04-19) A equipa t�cnica da Porto Digital efetuou com sucesso a ativa��o de servi�o.
+2019-04-04	Sem servi�o desde a passada 6�feira. Visita agendada para hoje da parte da tarde (04/04). Nota: ver casa 33	(04-04-19) A equipa t�cnica da Porto Digital verificou que o transformador encontrava-se desligado do XON.
+2019-04-08	Interfer�ncias na difus�o dos canais televisivos. Visita agendada para dia 10/04 da parte da tarde.	(10-04-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou que a distribui��o no interior da habita��o n�o era a correta. 
+2019-04-10	Sem sinal na tomada tv da sala. Agendar visita para a pr�xima semana.	(15-05-19) Estado passou para resolvido pelo tempo decorrido. 
+2019-04-11	Ficaram sem sinal televisivo. Agendar visita.	(12-04-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou que o transformador encontrava-se desligado. Nota: Transformador substitu�do por um novo.
+2019-04-15	Servi�o em baixo. Visita por agendar.	(15-05-19) Estado passou para resolvido pelo tempo decorrido. 
+2019-04-15	Sem sinal desde ontem. Visita por agendar.	(15-05-19) Estado passou para resolvido pelo tempo decorrido. 
+2019-04-15	Entrar em contacto, confirmar os dados e agendar visita.	(15-05-19) Estado passou para resolvido pelo tempo decorrido. 
+2019-04-15	Entrar em contacto, confirmar os dados e agendar visita.	(15-05-19) Estado passou para resolvido pelo tempo decorrido. 
+2019-04-15	Entrar em contacto, confirmar os dados e agendar visita.	(15-05-19) Estado passou para resolvido pelo tempo decorrido. 
+2019-04-15	Entrar em contacto, confirmar os dados e agendar visita.	(15-05-19) Estado passou para resolvido pelo tempo decorrido. 
+2019-04-15	Entrar em contacto, confirmar os dados e agendar visita.	(15-05-19) Estado passou para resolvido pelo tempo decorrido. 
+2019-04-15	Sem sinal na SIC e RTP1Reiniciar set top box dos 2 canais no Bonfim?	(16-04-19) Boxs reiniciadas. 
+2019-04-15	Sem sinal na SIC e RTP1.Reiniciar set top box dos 2 canais no Bonfim?	(16-04-19) Boxs reiniciadas. 
+2019-04-15	Sem sinal na SIC e RTP1.Reiniciar set top box dos 2 canais no Bonfim?	(16-04-19) Boxs reiniciadas. 
+2019-04-15	Sem sinal na SIC e RTP1.Reiniciar set top box dos 2 canais no Bonfim?	(16-04-19) Boxs reiniciadas. 
+2019-04-15	Sem sinal na SIC e RTP1.Reiniciar set top box dos 2 canais no Bonfim?	(16-04-19) Boxs reiniciadas. 
+2019-04-15	Sem sinal na SIC e RTP1.Reiniciar set top box dos 2 canais no Bonfim?	(16-04-19) Boxs reiniciadas. 
+2019-04-29	Visita agendada excecionalmente para 6�feira (26/04) �s 21h30 a pedido da Domus Social.	(26-04-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou a avaria do transformador. O servi�o est� ativo. Nota: O cabo de fibra encontra-se vincado. Necessita de nova fus�o.
+2019-05-15	Sem sinal num dos televisores. Outro em funcionamento.Visita agendada para amanh� da parte da tarde (16/05).	(17-05-19) A equipa t�cnica da Porto Digital deslocou-se ao local e efetuou uma simples sintoniza��o ao televisor.
+2019-05-15	Formigueiro na difus�o dos canais televisivos. (transformador) Visita agenda para amanh� da parte da tarde (16/05).Passar na casa 22.	(17-05-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou a avaria do transformador que alimenta o XON.
+2019-05-20	Problema com o sinal televisivo. Visita por agendar.	(22-05-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou que, ap�s interven��o da Vodafone, o servi�o de televis�o ficou com interferencias. Essa anomalia foi motivada pela inje��o de sinal (Vodafone) no �ltimo piso.
+2019-05-21	Pretende ativa��o de servi�o. Visita agendada para 4�feira da parte da manh� (29/05). (29-05-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou que o inquilino n�o se encontrava no local  como combinado. Tentamos por variadas vezes entrar em contacto telefonicamente com o inquilino mas n�o tivemos sucesso nessa a��o.
+2019-05-28		(28-05-19) A inquilina informou que o servi�o j� se encontra ativo.
+2019-05-28		(28-05-19) A inquilina informou que o servi�o j� se encontra ativo.
+2019-05-28	Conetor da coluna montante danificado. Visita agendada para amanh� da parte da tarde (29/05).	(29-05-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou que o conetor (IN) que alimenta a coluna de piso encontrava-se danificado. 
+2019-06-07	Pretende ativa��o de servi�o. Visita agendada para 4�feira da parte da manh� (12/06).	(12-06-19) A equipa t�cnica da Porto Digital deslocou-se ao local e efetuou a ativa��o com sucesso.
+2019-06-21	Desde a semana passada sem servi�o. Visita agendada para 4�feira da parte da manh� (26/06).	(26-06-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou que o transformador foi danificado por um roedor.
+2019-06-25	Pretende ativa��o de servi�o. Visita agendada para amanh� da parte da manh� (26/06).	(26-06-19) A equipa t�cnica da Porto Digital efetuou a ativa��o do servi�o com sucesso.
+2019-06-25	Pretende ativa��o de servi�o. Visita agendada para amanh� da parte da manh� (26/06)	(26-06-19) A equipa t�cnica da Porto Digital efetuou a ativa��o do servi�o com sucesso.
+2019-06-27	Sem servi�o desde a semana passada. No dia de ontem (26/06) foi verificado corte na alimenta��o do Xon devido a um roedor. O servi�o ficou ativo e verificado em 2 casas. A inquilina efetuou nova sintoniza��o mas continua sem sinal. Visita por agendar. (27-06-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou que a situa��o era bem diferente da que foi relatada por telefone. Foi necess�rio efetuar uma ativa��o.
+2019-06-27	Visita agendada para dia 8/07	(08-07-19) Novo morador. Activa��o de servi�o.
+2019-06-27	Formigueiro na difus�o dos canais televisivos. Visita pr�-agendada para dia 8/07 da parte da manh�.	(08-07-19) Moradora indicou ficar sem servi�o ap�s uma interven��o da NOS no edificio. A caixa de piso encontrava-se sem repartidor da Porto Digital, foi colocado um repartidor e efectuadas as liga��es.
+2019-07-10	Esta moradora est� com dificuldades na tv, n�o d� nenhum dos canais, desde ontem � noite (09/07/2019).	(15-07-19) Resolvido por telefone. Inquilina informa que o servi�o encontra-se em condi��es.
+2019-07-10	Sem sinal tv. Verifiicar habita��o amanh� da parte da manh� (16/07).	(16-07-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou que o transformador que alimenta o Xon encontrava-se avariado.
+2019-07-10	Solicita ativa��o dos servi�os de televis�o.	
+2019-07-15	Problema geral na entrada. Visita agendada para amanh� da parte da manh� (16/07).	(16-07-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou que o transformador que alimenta o Xon encontrava-se avariado.
+2019-07-15	Pretende ativa��o de servi�o. Visita agendada para amanh� da parte da manh� (16/07).	(16-07-19) A equipa t�cnica da Porto Digital deslocou-se ao local e efetuou a ativa��o com sucesso.
+2019-07-15	Pretende ativa��o de servi�o. Visita agendada para amanh� da parte da manh� (18/07).	(18-07-19) A equipa t�cnica da Porto Digital deslocou-se ao local e ativou com sucesso o servi�o.
+2019-07-19	Solicita a ativa��o dos servi�os de televisao. Agendado para 2�feira a qualquer hora (22/07/19).	(22-07-19) A equipa t�cnica da Porto Digital deslocu-se ao local e efetuou a ativa��o de servi�o com sucesso.
+2019-07-23	Informa que o sinal estava a dar bem, porem parou de funcionar. Tentamos averiguar se havia luz nas areas comuns porem ele n�o se encontra a casa agora para verificar	(25-07-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou que o disjuntor do quadro el�trico que alimenta a tomada do Xon encontrava-se em baixo.
+2019-07-25	Sem sinal desde 3�feira. Visita agendada para hoje depois das 17h (25/07).	(25-07-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou que o disjuntor do quadro el�trico que alimenta a tomada do Xon encontrava-se em baixo.
+2019-08-02	Inquilino do Bairro de Santa Luzia. Servi�o inexistente. Contacto transmitido erradamente pela Domus Social.	
+2019-08-08	Problema com o sinal televisivo motivado pelas vari��es do tempo. Moradora do bairro de Pasteleira Nova. Contacto dado � inquilina pela CMP.	
+2019-08-08	Interfer�ncia na difus�o dos canais televisivos. Visita agendada para amanh� por volta das 9h30 (09/08). (08-08-19) A inquilina informa que o servi�o encontra-se novamente ativo.
+2019-08-21	Sem sinal televisivo.Visita agendada para hoje ao final da manh�. (21/08)	(21-08-19) A equipa t�cnica da Porto Digital deslocou-se ao local e substituiu o Xon e dois derivadores de piso (0 e 1).
+2019-08-22	Pretende ativa��o de servi�o.Rescindiu com a N�S. Nota: J� foi assinante APD. Visita agendada para amanh� da parte da manh� (23/08) - 9h30.	(23-08-19) A equipa t�cnica da Porto Digital deslocou-se ao local e efetuou a ativa��o com sucesso. Nota: A televis�o da sala est� com algum problema porque n�o foi poss�vel sintoniz�-la (recep��o antena). Com a N�S n�o tinham esse problema porque a capta��o de sinal provinha da box.
+2019-08-22	Desde 2�feira sem servi�o. Visita agendada para amanh� da parte da manh� (23/08).	(23-08-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou que o problema provinha do XON. Nota: Foi sustitu�do por um que n�o est� nas melhores condi��es mas a funcionar. Assinante com tvs em TDT. 
+2019-08-22	Inquilino do Bairro da Agra do Amial. Servi�o inexistente. Contacto transmitido erradamente pela Domus Social.	
+2019-08-26	A inquilina informa que estiveram a mexer nas caixas de telecomunica��o nos comuns, na 5�feira, e desde ent�o ficou sem servi�o. Visita agendada para amanh� da parte da manh� (27/08).	(27-08-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou que o servi�o encontrava-se em boas condi��es. Nota: Refez-se a liga��o interior (cabo de antena).
+2019-09-03	Sem servi�o desde a semana passada. Visita agendada para 5� da parte da tarde (05/09).	(05-09-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou que o transformador encontrava-se desligado. Nota: Foi necess�rio retificar a distribui��o interior.
+2019-09-03	Ativa��o de servi�o. Visita agendada para 5� feira da parte da tarde (05/09).	(05-09-19) A equipa t�cnica da Porto Digital deslocou-se ao local e efetuou com sucesso a ativa��o.
+2019-09-04	Pretende ativa��o de servi�o. Visita agendada para amanh� da parte da tarde (05/09).	(05-09-19) A equipa t�cnica da Porto Digital deslocou-se ao local e efetuou com sucesso a ativa��o.
+2019-09-09	Pretende ativa��o de servi�o. Visita agendada para 6�feira da parte da tarde (13/09).	(13-09-19) A equipa t�cnica da Porto Digital deslocou-se ao local e efetuou a ativa��o de servi�o com sucesso.
+2019-09-11	Pretendia ativa��o de servi�o. Moradora no bairro da Agra do Amial.Contacto transmitido erradamente pela CMP.	
+2019-09-18	O servi�o televisivo encontra-se em baixo segundo o assinante. N�o tem visto televis�o. Visita agendada para amanh� da parte da manh� (19/09).	(19-09-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou a avaria do transformador. Nota: Retificou-se distribui��o interior.
+2019-09-18	Problema no sinal de televis�o. Visita agendada para amanh� da parte da manh� (19/09).	(19-09-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou a avaria do transformador.
+2019-09-20	Pretende ativa��o de servi�o. Nova inquilina.Visita agendada para esta tarde �s 14h/14h30 (20/09).	(20-09-19) A equipa t�cnica da Porto Digital deslocou-se ao local e efetuou a ativa��o com sucesso.
+2019-09-24	Problema na difus�o dos canais televisivos. Visita agendada para 2�feira (30/09) de manh� por volta das 9h30.	(30-09-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou a avaria do transformador. Nota: A tv da inquilina est� em final de vida (barulho)
+2019-09-26	Pretende ativa��o de servi�o. Visita agendada para 2�feira da parte da manh� (30/09).(30-09-19) Ativa��o efetuada com sucesso.
+2019-09-27	Rescindiu contrato com a Vodafone. Pretende ativa��o de servi�o.Visita agendada para 2�feira da parte da manh� (30/09). (30-09-19) Ativa��o efetuada com sucesso.
+2019-09-30	Informa que mudou de casa, e onde se encontra n�o ha nada para a instala�ao dos servi�os de televis�o. Solicita a ativa��o dos servi�os para lan�amento de novos cabos, pois a casa foi reformada e lhe arrancaram tudo.	(30-09-19) Ativa��o efetuada com sucesso.
+2019-10-01	Rescindiu com a Vodafone. Pretende ativa��o de servi�o. Visita agendada para 5�feira da parte da manh� (03/10).	(03-10-19) A equipa t�cnica da Porto Digital deslocou-se ao local e efetuou a ativa��o com sucesso. Nota: Cabo passado da caixa de distribui��o de piso at� ao domic�lio.
+2019-10-07	Bairro do Bom Pastor. Pretendia ativar o servi�o televisivo.	
+2019-10-07	Pretendia saber o que necessitava para ter acesso � internet.	
+2019-10-08	Pretende ativa��o de servi�o. Litigio com a operadora. Visita agendada para 5�feira da parte da tarde (10/10). (10-10-19) A equipa t�cnica da Porto Digital efetuou a ativa��o de servi�o com sucesso.
+2019-10-09	Pretende ativa��o de servi�o. Visita agendada para amanh� da parte da tarde (10/10).	(10-10-19) A equipa t�cnica da Porto Digital efetuou a ativa��o de servi�o com sucesso.
+2019-10-15	Solicita a instala��o e ativa��o dos servi�os.Visita agendada para 5�feira da parte da manh� (17/10).	(17-10-19) A equipa t�cnica da Porto Digital deslocou-se ao local e efetuou nova distribui��o no interior da habita��o. O servi�o j� se encontrava ativo � nossa chegada.
+2019-10-15	Inquilina informa que ficou sem servi�o ao final de semana, e notou que a caixa de distribui��o apresenta sinais de arrombamento. Visita agendada para 5� feira da parte da manh� (17/10). (9h30-11h)	(17-10-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou que o Xon n�o se encontrava nas melhores condi��es. Substituiu-se por um novo Xon (modelo recente).
+2019-10-16	Nos �ltimos dois dias n�o tem tido servi�o televisivo.Visita agendada para amanh� da parte da manh� (17/10).	(17-10-19) Resolvido aquando da nossa chegada (falha el�trica nos comuns).
+2019-10-21	Ficou sem sinal depois das chuvas do ultimo final de semana	
+2019-10-21	Informa que ficou sem sinal ap�s as chuvas do ultimo final de semana	
+2019-10-21	Informa que ficou sem sinal ap�s as chuvas do ultimo final de semana	
+2019-10-21	Informa que ficou sem sinal ap�s as chuvas do ultimo final de semana	
+2019-10-21	Informa que ficou sem sinal ap�s as chuvas do ultimo final de semana	
+2019-10-21	Informa que ficou sem sinal no calanl 01 ap�s as chuvas do ultimo final de semana	
+2019-10-21	Informa que ficou sem sinal ap�s as chuvas do ultimo final de semana	
+2019-10-21	Desde o sabado esta sem o canal 01	
+2019-10-21	Informa que ficou sem sinal ap�s as chuvas do ultimo final de semana	
+2019-10-21	O gestor informa que est�o sem servi�o desde o ultimo final de semana.	
+2019-10-21	Sem servi�o desde 6�feira. Visita agendada para amanh� da parte da manh� (22/10).	(21-10-19) Ligou a confirmar resolu��o do caso.
+2019-10-21	Pede o favor de sintonizar a tv ap�s problema geral de s�bado passado (19/10). Visita agendada para amanh� da parte da manh� (22/10).	(22-10-19) A equipa t�cnica efetuou com sucesso a sintoniza��o do televisor.
+2019-10-21		
+2019-10-21		
+2019-10-22	Solicita a ativa�ao dos servi�os, tinha NOS. Visita agendada para 5�feira da parte da manh� (24/10).	(24-10-19) A equipa t�cnica da Porto Digital deslocou-se ao local e efetuou a ativa��o de servi�o com sucesso.
+2019-10-23	Eng� Gomes da Silva ligou para a APD a informar a falta de servi�o nesta casa. (28-10-19) Inquilina voltou a contactar para verificar estado da liga��o. Visita agendada para hoje da parte da tarde. (28-10-19) Efetuou-se uma simples sintoniza��o aos televisores.
+25-10-19) Estado passou a resolvido por falta de contacto da inquilina a informar se o servi�o estaria em condi��es.
+2019-10-23	Eng� Gomes da Silva ligou para a APD para verificar qual o problema nesta entrada. O equipamento foi reiniciado e voltou a funcionar.	
+2019-10-23	Inquilina informa que hoje pela manh� ficou sem sinal	(24-10-19) A equipa t�cnica da Porto Digital deslocou-se ao local e verificou que o servi�o, � nossa chegada, estava reposto. Nota: Substituiu-se o transformador para melhorar a qualidade de imagem (interfer�ncias)
+2019-10-23	Pretende ativa��o de servi�o. Bloco ainda n�o se encontra ativo. Ligar quando estiver dispon�vel.	
+2019-10-23	O servi�o televisivo est� em baixo desde 6� ou s�bado. Visita agendada para amanh� da parte da manh� (24/10).	(24-10-19) Televisor dessintonizado motivado pela falha geral do s�bado anterior.
+2019-10-25	Pretende ativa��o de servi�o.Visita agendada para 2� da parte da tarde (28/10) > 14h30.	(28-10-19) A equipa t�cnica da Porto Digital deslocou-se ao local e efetuou a ativa��o de servi�o com sucesso.
+2019-10-29	Pretende ativa��o de servi�o. Visita agendada para 4�feira da parte da manh� (30/10).	(30-10-19) A equipa t�cnica da Porto Digital deslocou-se ao local e efetuou a ativa��o de servi�o com sucesso.
+2019-11-07	Pretende ativa��o de servi�o. Visita agendada para amanh� da parte manh� (08/11).	(08-11-19) A equipa t�cnica da Porto Digital deslocou-se ao local e efetuou a ativa��o de servi�o com sucesso.
+2019-11-12	Problema na difus�o dos canais televisivos (interfer�ncias). Transformador? Visita agendada para 5�feira da parte da manh� (14/11). (13-11-19) Caso resolvido pelo inquilino. Os cabos n�o estavam bem conetados.
+2019-11-12	Pretende sintoniza��o da RTP Mem�ria.	(14-11-19) Resolvido pela inquilina.
+2019-11-14	Pretende ativa��o de servi�o. Corte de servi�o da operadora por falta de pagamento. Visita agendada para amanh� da parte da manh� (15/11).	(15-11-19) A equipa t�cnica da Porto Digital deslocou-se ao local e efetuou a ativa��o de servi�o com sucesso.
+2019-11-20	Bloco sem servi�o (infraestrutura em falta)	
+2019-11-25	Sem sinal desde 6�feira. (25-11-19) Problema geral resolvido. Reboot das set-top-boxes na Reitoria.
+2019-11-25	Pretende ativa��o de servi�o. Visita agendada para 5"feira a partir das 15h30 (28/11).	
